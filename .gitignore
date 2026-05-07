@@ -1,0 +1,16 @@
+# Claude Code / Skills (local tool config)
+.claude/
+.agents/
+skills-lock.json
+
+/node_modules/
+/.next/
+/out/
+/build
+.env
+.env.local
+.DS_Store
+*.pem
+*.tsbuildinfo
+.netlify
+public/
